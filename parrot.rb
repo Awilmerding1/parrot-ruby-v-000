@@ -5,6 +5,6 @@ def parrot(string = "Squawk!")
   puts "Pretty bird!"
   return "Pretty bird!"
 elsif string == string
-return string
+ string
 end
 end
