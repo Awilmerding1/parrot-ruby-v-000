@@ -3,4 +3,6 @@
 def parrot(string = "Squawk!")
   if string != "Squawk"
   puts "Pretty bird!"
+  return "Pretty bird!"
+end
 end
