@@ -4,6 +4,6 @@ def parrot(string = "Squawk!")
   if string
   puts "Pretty bird!"
   return "Pretty bird!"
-else string
+else puts string
 end
 end
